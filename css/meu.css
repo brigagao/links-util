@@ -1,0 +1,44 @@
+@charset "UTF-8";
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  background-color:rgb(54, 53, 53);
+}
+
+.navbar-toggler{
+  margin: 0px 10px 0px 0px ;
+}
+
+
+.marg{
+  margin: 0px 0px 0px 10px ;
+}
+
+#divfooter{
+  background-color: rgb(46, 45, 45);
+}
+
+
+.neonText {
+  color: #fff;
+  text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #0fa,
+    0 0 82px #0fa,
+    0 0 92px #0fa,
+    0 0 102px #0fa,
+    0 0 151px #0fa;
+}
+
+details, progress{
+  margin-left: 100px;
+}
+
+figure{
+border: 5px solid;
+border-image: linear-gradient(210deg, #ff0fcc,rgb(15, 199, 255), #910af2) 1;
+}
