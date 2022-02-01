@@ -42,3 +42,8 @@ figure{
 border: 5px solid;
 border-image: linear-gradient(210deg, #ff0fcc,rgb(15, 199, 255), #910af2) 1;
 }
+
+button{
+  min-height: 100%;
+  min-width: 100%;
+}
