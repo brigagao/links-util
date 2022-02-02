@@ -7,10 +7,9 @@ body{
   background-color:rgb(54, 53, 53);
 }
 
-.navbar-toggler{
-  margin: 0px 10px 0px 0px ;
+.navbar-expand-lg-end{
+  background-color: rgb(28, 66, 204)
 }
-
 
 .marg{
   margin: 0px 0px 0px 10px ;
